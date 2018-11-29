@@ -1,3 +1,3 @@
-# clarustw
+# tw-clarus
 
-Clanding Page with Tailwind CSS
+clarus landing page build with tailwindcss, this is learning section
