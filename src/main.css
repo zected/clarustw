@@ -67,7 +67,7 @@ a {
 }
 
 .intro {
-    background-image: url("/asset/img/bg-clarus2.jpg");
+    background-image: url("./asset/img/bg-clarus2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
